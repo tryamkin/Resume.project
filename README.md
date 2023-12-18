@@ -1,1 +1,1 @@
-# My HTMLS and CSS Resume.project 
+# My HTML and Resume.project 
